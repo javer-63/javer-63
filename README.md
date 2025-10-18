@@ -1,7 +1,5 @@
 # *<Привет, Мир!>* 👋
 
-<h3 align="center">Java Backend Developer | Spring Boot | Microservices</h3>
-
 ---
 
 ### 👨‍💻 Обо мне
