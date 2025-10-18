@@ -2,4 +2,6 @@
 ---
 Меня зовут Сергей Куликов. Я - Java разработчик. 
 
-[![Sergey profile views](https://u8views.com/api/v1/github/profiles/71715087/views/day-week-month-total-count.svg)](https://u8views.com/github/javer-63)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=[javer-63]&label=Просмотры%20профиля&color=0e75b6&style=flat" alt="Просмотры профиля" />
+</p>
