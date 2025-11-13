@@ -22,7 +22,7 @@
 
 ---
 
-### 🚀 Топ проект
+### 🚀 Топ проекты
 
 [![News Portal](https://img.shields.io/badge/News_Portal-FF6B6B?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/javer-63/News-portal)
 
@@ -39,6 +39,25 @@
 - Чистая архитектура с DTO и мапперами
 
 [**📁 Посмотреть код →**](https://github.com/javer-63/News-portal)
+
+---
+
+[![IT Blog](https://img.shields.io/badge/IT_Blog-4ECDC4?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/javer-63/IT_blog)
+
+**IT Blog** - RESTful веб-сервис для блоговой платформы на Spring Boot с полным набором CRUD операций
+
+**🔧 Основной стек:**
+- Java 17 • Spring Boot 3 • Spring Data JPA • PostgreSQL
+- MapStruct • Lombok • AOP • Maven
+
+**🎯 Ключевые особенности:**
+- Полный CRUD через REST API с валидацией данных
+- Поддержка PUT/PATCH для полного и частичного обновления
+- Кастомные исключения с обработкой HTTP статусов
+- Логирование операций через Spring AOP
+- Чистая архитектура с DTO и мапперами
+
+[**📁 Посмотреть код →**](https://github.com/javer-63/IT_blog)
 
 ---
 
