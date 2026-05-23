@@ -24,6 +24,28 @@
 
 ### 🚀 Топ проекты
 
+[![DevNotes](https://img.shields.io/badge/DevNotes-FF1B6B?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/javer-63/DevNotes)
+
+Ссылка на проект - https://dev-notes.net/.
+
+**DevNotes** — полнофункциональное веб-приложение на Spring Boot для ведения технического блога с веб-интерфейсом и защищённой административной зоной.
+
+**🔧 Основной стек:**
+- Java 21 • Spring Boot 3 • Spring Data JPA + Hibernate • PostgreSQL
+- Spring Security • Thymeleaf • TinyMCE • Maven
+
+**🎯 Ключевые особенности:**
+- Полный CRUD для статей через веб-интерфейс
+- Защита админ-зоны с аутентификацией по логину/паролю через Spring Security
+- Загрузка и управление медиафайлами (изображения хранятся локально)
+- Чистая многослойная архитектура: контроллеры → сервисы → репозитории → entity
+- Централизованная обработка ошибок и гибкое логирование с ротацией файлов
+- Готов к развёртыванию как автономное решение без внешних зависимостей
+
+[**📁 Посмотреть код →**](https://github.com/javer-63/DevNotes)
+
+---
+
 [![News Portal](https://img.shields.io/badge/News_Portal-FF6B6B?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/javer-63/News-portal)
 
 **Новостной портал** - полнофункциональное веб-приложение на Spring Boot с REST API и веб-интерфейсом
